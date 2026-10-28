@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Xcode per-user state (window layout, breakpoints, scheme order)
+xcuserdata/
+
+# Build products
+build/
+DerivedData/
+
+# Claude Code per-user permissions
+.claude/settings.local.json

@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12000px" height="20000px" viewBox="0 0 12000 20000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Binary Calculator</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BinaryCalc" transform="translate(-4604, 577)">
+            <rect id="Background" fill="#000000" x="4604" y="-577" width="12000" height="20000" rx="200"></rect>
+            <rect id="Surround" stroke="#F8A036" stroke-width="45" fill="#358292" x="6569" y="1430.5" width="8025" height="15985" rx="270"></rect>
+            <g id="Keypad" transform="translate(7129, 9938)">
+                <rect id="Keypad-background" stroke="#ECD9AF" stroke-width="45" fill="#88ACA2" x="-22.5" y="-22.5" width="6995" height="6995" rx="180"></rect>
+                <g id="Keypad-keys" transform="translate(-1926, -2225)"></g>
+            </g>
+            <g id="Display" transform="translate(7129, 1958)" stroke-width="45">
+                <rect id="Display-background" stroke="#88ACA2" fill="#ECD9AF" x="-22.5" y="-22.5" width="6995" height="6995" rx="180"></rect>
+                <g id="Display-segments-wide" transform="translate(325, 415)" stroke="#000000">
+                    <g id="Display-line-9-digits" transform="translate(697, 5580)">
+                        <g id="Group-Copy-8" transform="translate(5063, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-5" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                        </g>
+                        <g id="Group-Copy-7" transform="translate(4343, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-6" transform="translate(3623, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-5" transform="translate(2903, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-4" transform="translate(2183, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-3" transform="translate(1463, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-2" transform="translate(743, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy" transform="translate(23, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-9" transform="translate(-697, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                    </g>
+                    <g id="Display-line-8-operators" opacity="0.5" transform="translate(720, 4882.254)">
+                        <g id="+" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-4" transform="translate(248.2664, 247.7991) rotate(-18.4349) translate(-248.2664, -247.7991)"></line>
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-3" transform="translate(248.2664, 247.7991) rotate(-108.4349) translate(-248.2664, -247.7991)"></line>
+                        </g>
+                        <g id="-" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-3" transform="translate(248.2664, 247.7991) rotate(-108.4349) translate(-248.2664, -247.7991)"></line>
+                        </g>
+                        <g id="x" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-5" transform="translate(248.2664, 247.7991) rotate(-63.4349) translate(-248.2664, -247.7991)"></line>
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-6" transform="translate(248.2664, 247.7991) rotate(-153.4349) translate(-248.2664, -247.7991)"></line>
+                        </g>
+                        <g id="/" transform="translate(5084.2336, 22.4469)">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-3" stroke-linecap="round" transform="translate(248.2664, 247.7991) rotate(-108.4349) translate(-248.2664, -247.7991)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="247.766372" cy="72.5530677" r="22.5"></circle>
+                            <circle id="Oval-4" fill="#000000" cx="248.766372" cy="422.553068" r="22.5"></circle>
+                        </g>
+                        <g id="=" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="103" x2="170" y2="572.598233" id="+E-Copy-5" transform="translate(248.2664, 337.7991) rotate(-108.4349) translate(-248.2664, -337.7991)"></line>
+                            <line x1="326.532744" y1="-77" x2="170" y2="392.598233" id="+E-Copy-4" transform="translate(248.2664, 157.7991) rotate(-108.4349) translate(-248.2664, -157.7991)"></line>
+                        </g>
+                    </g>
+                    <g id="Display-line-7-digits" transform="translate(697, 4185)">
+                        <g id="Group-Copy-8" transform="translate(5063, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-5" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                        </g>
+                        <g id="Group-Copy-7" transform="translate(4343, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-6" transform="translate(3623, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-5" transform="translate(2903, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-4" transform="translate(2183, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-3" transform="translate(1463, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-2" transform="translate(743, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy" transform="translate(23, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-9" transform="translate(-697, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                    </g>
+                    <g id="Display-line-6-operators" opacity="0.5" transform="translate(720, 3487.254)">
+                        <g id="+" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-4" transform="translate(248.2664, 247.7991) rotate(-18.4349) translate(-248.2664, -247.7991)"></line>
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-3" transform="translate(248.2664, 247.7991) rotate(-108.4349) translate(-248.2664, -247.7991)"></line>
+                        </g>
+                        <g id="-" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-3" transform="translate(248.2664, 247.7991) rotate(-108.4349) translate(-248.2664, -247.7991)"></line>
+                        </g>
+                        <g id="x" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-5" transform="translate(248.2664, 247.7991) rotate(-63.4349) translate(-248.2664, -247.7991)"></line>
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-6" transform="translate(248.2664, 247.7991) rotate(-153.4349) translate(-248.2664, -247.7991)"></line>
+                        </g>
+                        <g id="/" transform="translate(5084.2336, 22.4469)">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-3" stroke-linecap="round" transform="translate(248.2664, 247.7991) rotate(-108.4349) translate(-248.2664, -247.7991)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="247.766372" cy="72.5530677" r="22.5"></circle>
+                            <circle id="Oval-4" fill="#000000" cx="248.766372" cy="422.553068" r="22.5"></circle>
+                        </g>
+                        <g id="=" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="103" x2="170" y2="572.598233" id="+E-Copy-5" transform="translate(248.2664, 337.7991) rotate(-108.4349) translate(-248.2664, -337.7991)"></line>
+                            <line x1="326.532744" y1="-77" x2="170" y2="392.598233" id="+E-Copy-4" transform="translate(248.2664, 157.7991) rotate(-108.4349) translate(-248.2664, -157.7991)"></line>
+                        </g>
+                    </g>
+                    <g id="Display-line-5-digits" transform="translate(697, 2790)">
+                        <g id="Group-Copy-8" transform="translate(5063, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-5" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                        </g>
+                        <g id="Group-Copy-7" transform="translate(4343, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-6" transform="translate(3623, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-5" transform="translate(2903, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-4" transform="translate(2183, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-3" transform="translate(1463, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-2" transform="translate(743, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy" transform="translate(23, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-9" transform="translate(-697, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                    </g>
+                    <g id="Display-line-4-operators" opacity="0.5" transform="translate(720, 2092.254)">
+                        <g id="+" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-4" transform="translate(248.2664, 247.7991) rotate(-18.4349) translate(-248.2664, -247.7991)"></line>
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-3" transform="translate(248.2664, 247.7991) rotate(-108.4349) translate(-248.2664, -247.7991)"></line>
+                        </g>
+                        <g id="-" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-3" transform="translate(248.2664, 247.7991) rotate(-108.4349) translate(-248.2664, -247.7991)"></line>
+                        </g>
+                        <g id="x" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-5" transform="translate(248.2664, 247.7991) rotate(-63.4349) translate(-248.2664, -247.7991)"></line>
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-6" transform="translate(248.2664, 247.7991) rotate(-153.4349) translate(-248.2664, -247.7991)"></line>
+                        </g>
+                        <g id="/" transform="translate(5084.2336, 22.4469)">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-3" stroke-linecap="round" transform="translate(248.2664, 247.7991) rotate(-108.4349) translate(-248.2664, -247.7991)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="247.766372" cy="72.5530677" r="22.5"></circle>
+                            <circle id="Oval-4" fill="#000000" cx="248.766372" cy="422.553068" r="22.5"></circle>
+                        </g>
+                        <g id="=" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="103" x2="170" y2="572.598233" id="+E-Copy-5" transform="translate(248.2664, 337.7991) rotate(-108.4349) translate(-248.2664, -337.7991)"></line>
+                            <line x1="326.532744" y1="-77" x2="170" y2="392.598233" id="+E-Copy-4" transform="translate(248.2664, 157.7991) rotate(-108.4349) translate(-248.2664, -157.7991)"></line>
+                        </g>
+                    </g>
+                    <g id="Display-line-3-digits" transform="translate(697, 1395)">
+                        <g id="Group-Copy-8" transform="translate(5063, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-5" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                        </g>
+                        <g id="Group-Copy-7" transform="translate(4343, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-6" transform="translate(3623, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-5" transform="translate(2903, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-4" transform="translate(2183, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-3" transform="translate(1463, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-2" transform="translate(743, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy" transform="translate(23, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-9" transform="translate(-697, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                    </g>
+                    <g id="Display-line-2-operators" opacity="0.5" transform="translate(720, 697.254)">
+                        <g id="+" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-4" transform="translate(248.2664, 247.7991) rotate(-18.4349) translate(-248.2664, -247.7991)"></line>
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-3" transform="translate(248.2664, 247.7991) rotate(-108.4349) translate(-248.2664, -247.7991)"></line>
+                        </g>
+                        <g id="-" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-3" transform="translate(248.2664, 247.7991) rotate(-108.4349) translate(-248.2664, -247.7991)"></line>
+                        </g>
+                        <g id="x" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-5" transform="translate(248.2664, 247.7991) rotate(-63.4349) translate(-248.2664, -247.7991)"></line>
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-6" transform="translate(248.2664, 247.7991) rotate(-153.4349) translate(-248.2664, -247.7991)"></line>
+                        </g>
+                        <g id="/" transform="translate(5084.2336, 22.4469)">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-3" stroke-linecap="round" transform="translate(248.2664, 247.7991) rotate(-108.4349) translate(-248.2664, -247.7991)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="247.766372" cy="72.5530677" r="22.5"></circle>
+                            <circle id="Oval-4" fill="#000000" cx="248.766372" cy="422.553068" r="22.5"></circle>
+                        </g>
+                        <g id="=" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="103" x2="170" y2="572.598233" id="+E-Copy-5" transform="translate(248.2664, 337.7991) rotate(-108.4349) translate(-248.2664, -337.7991)"></line>
+                            <line x1="326.532744" y1="-77" x2="170" y2="392.598233" id="+E-Copy-4" transform="translate(248.2664, 157.7991) rotate(-108.4349) translate(-248.2664, -157.7991)"></line>
+                        </g>
+                    </g>
+                    <g id="Display-line-1-digits" transform="translate(697, 0)">
+                        <g id="Group-Copy-8" transform="translate(5063, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-5" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                        </g>
+                        <g id="Group-Copy-7" transform="translate(4343, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-6" transform="translate(3623, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-5" transform="translate(2903, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-4" transform="translate(2183, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-3" transform="translate(1463, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-2" transform="translate(743, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy" transform="translate(23, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-9" transform="translate(-697, 0)">
+                            <circle id="Oval-2" cx="270" cy="270" r="247.5"></circle>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-3" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-108.4349) translate(-269.5, -270.246)"></line>
+                            <line x1="347.766372" y1="35.4469323" x2="191.233628" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(269.5, 270.246) rotate(-18.4349) translate(-269.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="630" cy="495" r="22.5"></circle>
+                        </g>
+                    </g>
+                </g>
+                <g id="Display-segments-narrow" transform="translate(325, 415)" stroke="#000000">
+                    <g id="Display-line-9-digits" transform="translate(735, 5580)">
+                        <g id="Group-Copy-25" transform="translate(5273, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                        </g>
+                        <g id="Group-Copy-24" transform="translate(4899, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-23" transform="translate(4525, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-22" transform="translate(4151, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-21" transform="translate(3777, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-20" transform="translate(3403, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-19" transform="translate(3029, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-18" transform="translate(2655, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-17" transform="translate(2281, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-16" transform="translate(1907, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-15" transform="translate(1533, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-14" transform="translate(1159, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-13" transform="translate(785, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-12" transform="translate(411, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-11" transform="translate(37, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-10" transform="translate(-337, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-9" transform="translate(-711, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                    </g>
+                    <g id="Display-line-8-operators" opacity="0.5" transform="translate(701, 4882.254)">
+                        <g id="+" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-4" transform="translate(248.2664, 247.7991) rotate(-18.4349) translate(-248.2664, -247.7991)"></line>
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-3" transform="translate(248.2664, 247.7991) rotate(-108.4349) translate(-248.2664, -247.7991)"></line>
+                        </g>
+                        <g id="-" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-3" transform="translate(248.2664, 247.7991) rotate(-108.4349) translate(-248.2664, -247.7991)"></line>
+                        </g>
+                        <g id="x" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-5" transform="translate(248.2664, 247.7991) rotate(-63.4349) translate(-248.2664, -247.7991)"></line>
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-6" transform="translate(248.2664, 247.7991) rotate(-153.4349) translate(-248.2664, -247.7991)"></line>
+                        </g>
+                        <g id="/" transform="translate(5084.2336, 22.4469)">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-3" stroke-linecap="round" transform="translate(248.2664, 247.7991) rotate(-108.4349) translate(-248.2664, -247.7991)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="247.766372" cy="72.5530677" r="22.5"></circle>
+                            <circle id="Oval-4" fill="#000000" cx="248.766372" cy="422.553068" r="22.5"></circle>
+                        </g>
+                        <g id="=" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="103" x2="170" y2="572.598233" id="+E-Copy-5" transform="translate(248.2664, 337.7991) rotate(-108.4349) translate(-248.2664, -337.7991)"></line>
+                            <line x1="326.532744" y1="-77" x2="170" y2="392.598233" id="+E-Copy-4" transform="translate(248.2664, 157.7991) rotate(-108.4349) translate(-248.2664, -157.7991)"></line>
+                        </g>
+                    </g>
+                    <g id="Display-line-7-digits" transform="translate(735, 4185)">
+                        <g id="Group-Copy-25" transform="translate(5273, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                        </g>
+                        <g id="Group-Copy-24" transform="translate(4899, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-23" transform="translate(4525, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-22" transform="translate(4151, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-21" transform="translate(3777, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-20" transform="translate(3403, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-19" transform="translate(3029, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-18" transform="translate(2655, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-17" transform="translate(2281, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-16" transform="translate(1907, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-15" transform="translate(1533, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-14" transform="translate(1159, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-13" transform="translate(785, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-12" transform="translate(411, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-11" transform="translate(37, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-10" transform="translate(-337, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-9" transform="translate(-711, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                    </g>
+                    <g id="Display-line-6-operators" opacity="0.5" transform="translate(720, 3487.254)">
+                        <g id="+" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-4" transform="translate(248.2664, 247.7991) rotate(-18.4349) translate(-248.2664, -247.7991)"></line>
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-3" transform="translate(248.2664, 247.7991) rotate(-108.4349) translate(-248.2664, -247.7991)"></line>
+                        </g>
+                        <g id="-" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-3" transform="translate(248.2664, 247.7991) rotate(-108.4349) translate(-248.2664, -247.7991)"></line>
+                        </g>
+                        <g id="x" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-5" transform="translate(248.2664, 247.7991) rotate(-63.4349) translate(-248.2664, -247.7991)"></line>
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-6" transform="translate(248.2664, 247.7991) rotate(-153.4349) translate(-248.2664, -247.7991)"></line>
+                        </g>
+                        <g id="/" transform="translate(5084.2336, 22.4469)">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-3" stroke-linecap="round" transform="translate(248.2664, 247.7991) rotate(-108.4349) translate(-248.2664, -247.7991)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="247.766372" cy="72.5530677" r="22.5"></circle>
+                            <circle id="Oval-4" fill="#000000" cx="248.766372" cy="422.553068" r="22.5"></circle>
+                        </g>
+                        <g id="=" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="103" x2="170" y2="572.598233" id="+E-Copy-5" transform="translate(248.2664, 337.7991) rotate(-108.4349) translate(-248.2664, -337.7991)"></line>
+                            <line x1="326.532744" y1="-77" x2="170" y2="392.598233" id="+E-Copy-4" transform="translate(248.2664, 157.7991) rotate(-108.4349) translate(-248.2664, -157.7991)"></line>
+                        </g>
+                    </g>
+                    <g id="Display-line-5-digits" transform="translate(735, 2790)">
+                        <g id="Group-Copy-25" transform="translate(5273, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                        </g>
+                        <g id="Group-Copy-24" transform="translate(4899, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-23" transform="translate(4525, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-22" transform="translate(4151, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-21" transform="translate(3777, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-20" transform="translate(3403, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-19" transform="translate(3029, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-18" transform="translate(2655, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-17" transform="translate(2281, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-16" transform="translate(1907, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-15" transform="translate(1533, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-14" transform="translate(1159, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-13" transform="translate(785, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-12" transform="translate(411, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-11" transform="translate(37, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-10" transform="translate(-337, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-9" transform="translate(-711, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                    </g>
+                    <g id="Display-line-4-operators" opacity="0.5" transform="translate(720, 2092.254)">
+                        <g id="+" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-4" transform="translate(248.2664, 247.7991) rotate(-18.4349) translate(-248.2664, -247.7991)"></line>
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-3" transform="translate(248.2664, 247.7991) rotate(-108.4349) translate(-248.2664, -247.7991)"></line>
+                        </g>
+                        <g id="-" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-3" transform="translate(248.2664, 247.7991) rotate(-108.4349) translate(-248.2664, -247.7991)"></line>
+                        </g>
+                        <g id="x" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-5" transform="translate(248.2664, 247.7991) rotate(-63.4349) translate(-248.2664, -247.7991)"></line>
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-6" transform="translate(248.2664, 247.7991) rotate(-153.4349) translate(-248.2664, -247.7991)"></line>
+                        </g>
+                        <g id="/" transform="translate(5084.2336, 22.4469)">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-3" stroke-linecap="round" transform="translate(248.2664, 247.7991) rotate(-108.4349) translate(-248.2664, -247.7991)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="247.766372" cy="72.5530677" r="22.5"></circle>
+                            <circle id="Oval-4" fill="#000000" cx="248.766372" cy="422.553068" r="22.5"></circle>
+                        </g>
+                        <g id="=" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="103" x2="170" y2="572.598233" id="+E-Copy-5" transform="translate(248.2664, 337.7991) rotate(-108.4349) translate(-248.2664, -337.7991)"></line>
+                            <line x1="326.532744" y1="-77" x2="170" y2="392.598233" id="+E-Copy-4" transform="translate(248.2664, 157.7991) rotate(-108.4349) translate(-248.2664, -157.7991)"></line>
+                        </g>
+                    </g>
+                    <g id="Display-line-3-digits" transform="translate(725, 1395)">
+                        <g id="Group-Copy-25" transform="translate(5273, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                        </g>
+                        <g id="Group-Copy-24" transform="translate(4899, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-23" transform="translate(4525, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-22" transform="translate(4151, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-21" transform="translate(3777, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-20" transform="translate(3403, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-19" transform="translate(3029, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-18" transform="translate(2655, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-17" transform="translate(2281, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-16" transform="translate(1907, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-15" transform="translate(1533, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-14" transform="translate(1159, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-13" transform="translate(785, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-12" transform="translate(411, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-11" transform="translate(37, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-10" transform="translate(-337, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-9" transform="translate(-711, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                    </g>
+                    <g id="Display-line-2-operators" opacity="0.5" transform="translate(720, 697.254)">
+                        <g id="+" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-4" transform="translate(248.2664, 247.7991) rotate(-18.4349) translate(-248.2664, -247.7991)"></line>
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-3" transform="translate(248.2664, 247.7991) rotate(-108.4349) translate(-248.2664, -247.7991)"></line>
+                        </g>
+                        <g id="-" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-3" transform="translate(248.2664, 247.7991) rotate(-108.4349) translate(-248.2664, -247.7991)"></line>
+                        </g>
+                        <g id="x" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-5" transform="translate(248.2664, 247.7991) rotate(-63.4349) translate(-248.2664, -247.7991)"></line>
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-6" transform="translate(248.2664, 247.7991) rotate(-153.4349) translate(-248.2664, -247.7991)"></line>
+                        </g>
+                        <g id="/" transform="translate(5084.2336, 22.4469)">
+                            <line x1="326.532744" y1="13" x2="170" y2="482.598233" id="+E-Copy-3" stroke-linecap="round" transform="translate(248.2664, 247.7991) rotate(-108.4349) translate(-248.2664, -247.7991)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="247.766372" cy="72.5530677" r="22.5"></circle>
+                            <circle id="Oval-4" fill="#000000" cx="248.766372" cy="422.553068" r="22.5"></circle>
+                        </g>
+                        <g id="=" transform="translate(5084.2336, 22.4469)" stroke-linecap="round">
+                            <line x1="326.532744" y1="103" x2="170" y2="572.598233" id="+E-Copy-5" transform="translate(248.2664, 337.7991) rotate(-108.4349) translate(-248.2664, -337.7991)"></line>
+                            <line x1="326.532744" y1="-77" x2="170" y2="392.598233" id="+E-Copy-4" transform="translate(248.2664, 157.7991) rotate(-108.4349) translate(-248.2664, -157.7991)"></line>
+                        </g>
+                    </g>
+                    <g id="Display-line-1-digits" transform="translate(735, 0)">
+                        <g id="Group-Copy-25" transform="translate(5273, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                        </g>
+                        <g id="Group-Copy-24" transform="translate(4899, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-23" transform="translate(4525, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-22" transform="translate(4151, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-21" transform="translate(3777, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-20" transform="translate(3403, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-19" transform="translate(3029, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-18" transform="translate(2655, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-17" transform="translate(2281, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-16" transform="translate(1907, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-15" transform="translate(1533, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-14" transform="translate(1159, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-13" transform="translate(785, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-12" transform="translate(411, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-11" transform="translate(37, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-10" transform="translate(-337, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                        <g id="Group-Copy-9" transform="translate(-711, 0)">
+                            <ellipse id="Oval-2" cx="135" cy="270" rx="112.5" ry="247.5"></ellipse>
+                            <line x1="170.145842" y1="163.302771" x2="100.1767" y2="375.569409" id="+E-Copy-3" stroke-linecap="round" transform="translate(135.1131, 269.8028) rotate(-108.2437) translate(-135.1131, -269.8028)"></line>
+                            <line x1="212.766372" y1="35.4469323" x2="56.2336279" y2="505.045165" id="+E-Copy-4" stroke-linecap="round" transform="translate(134.5, 270.246) rotate(-18.4349) translate(-134.5, -270.246)"></line>
+                            <circle id="Oval-3" fill="#000000" cx="315" cy="495" r="22.5"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <text font-family="Comfortaa-SemiBold, Comfortaa" font-size="450" font-weight="500" fill="#0F6385">
+                <tspan x="7129" y="9569">BinaryCalc</tspan>
+            </text>
+            <text id="CZ-IO" font-family="Comfortaa-SemiBold, Comfortaa" font-size="450" font-weight="500" fill="#0F6385">
+                <tspan x="12717.9237" y="9569">CZ-IO</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
