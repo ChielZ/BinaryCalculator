@@ -49,7 +49,8 @@ enum Design {
 
 /// Digit width of the display. `.wide` is the initial design: 8 binary
 /// digits per line, range ±255. `.narrow` fits 16 (±65535) into the same
-/// width. Both reserve the leftmost character cell for the minus sign.
+/// width. Both keep the leftmost character cell free of digits, so even a
+/// full-width negative number has room for its minus sign.
 enum BinaryDisplayMode: String, CaseIterable, Identifiable {
     case wide
     case narrow
@@ -63,7 +64,7 @@ enum BinaryDisplayMode: String, CaseIterable, Identifiable {
         }
     }
 
-    /// Binary digits per line, excluding the sign cell.
+    /// Binary digits per line: every cell but the leftmost.
     var digitCount: Int { geometry.cellCount - 1 }
 }
 

@@ -144,8 +144,10 @@ extension BinaryNumber {
     ///
     /// Exact values drop trailing fractional zeros (1.1, not 1.1000000). A
     /// truncated value keeps every digit, as in the design's −1.0101010 for
-    /// −4/3, so a full row of digits signals that the expansion continues —
-    /// a tiny non-zero value shows as 0.0000000 rather than 0.
+    /// −4/3: its trailing zeros are significant, narrowing down where the
+    /// true value lies. So a result shorter than the full row is always
+    /// exact, though a full row can be exact too (1/128 = 0.0000001), and a
+    /// tiny non-zero value shows as 0.0000000 rather than 0.
     func displayDigits(maxDigits: Int) -> DisplayDigits? {
         guard numerator != .min else { return nil }
         let p = abs(numerator)

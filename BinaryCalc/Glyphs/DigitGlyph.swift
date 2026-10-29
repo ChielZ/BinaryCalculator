@@ -13,12 +13,13 @@ struct Segments: OptionSet, Hashable {
 }
 
 extension DisplayDigits {
-    /// Segments for each of a line's `count` cells. The leftmost cell is
-    /// reserved for the minus sign; digits are right-aligned in the rest,
-    /// with the binary point lit on the last integer digit's cell.
+    /// Segments for each of a line's `count` cells. Digits are right-aligned
+    /// in all but the leftmost cell, with the binary point lit on the last
+    /// integer digit's cell. The minus sign sits directly left of the
+    /// leading digit, as in ordinary notation — the leftmost cell is kept
+    /// free of digits so that even a full-width number has room for it.
     func cells(count: Int) -> [Segments] {
         var cells = Array(repeating: Segments(), count: count)
-        if negative { cells[0] = .dash }
 
         // The rightmost cell has no point, so a point typed before any
         // fractional digit keeps that cell free for the first one.
@@ -31,6 +32,9 @@ extension DisplayDigits {
         let pointCell = first + integer.count - 1
         if showPoint, pointCell >= 1 {
             cells[pointCell].insert(.point)
+        }
+        if negative {
+            cells[max(0, first - 1)] = .dash
         }
         return cells
     }

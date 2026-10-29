@@ -21,7 +21,7 @@ struct BinaryTheme {
     var displayDigit           = Color(hex: 0x000000)
     var displayOperator        = Color(hex: 0x000000)
     var displayOperatorOpacity = 0.5
-    var brandText              = Color(hex: 0x0F6385)   // "BinaryCalc" / "CZ-IO" wordmarks
+    var brandText              = Color(hex: 0xF8A036)   // "BinaryCalc" / "CZ-IO" wordmarks
     var keypadFrameStroke      = Color(hex: 0xECD9AF)
     var keypadBackground       = Color(hex: 0x88ACA2)
     var keyStroke              = Color(hex: 0xECD9AF)
